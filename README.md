@@ -19,7 +19,7 @@
 ## How do I set it up?
 
 1. Open [Google App Scripts](https://www.google.com/script/start) and press `start scripting`.
-2. Replace the code there with the content of `gspusi.js`.
+2. Replace the code there with the content of [gspusi.js](https://raw.githubusercontent.com/kstudent/gspusi/master/gspusi.js).
 3. In line 26, replace `<term>` with the search keyword you would use to [find your course](https://usionline.uni-graz.at/usiweb/myusi.kurse?suche_in=go&sem_id_in=2016W&sp_id_in=&kursbez_in=volleyball+fortg.&kursleiter_in=&kursnr_in=&wt_in=&uhrzeit_von_in=&uhrzeit_bis_in=&suche_kursstaette_id_in=)  (e.g. `volleyball fortg.`).
 4. Store the project (Ctrl-s). Call it 'what you want'.
 5. add a trigger by clicking on `Resources` / `All your triggers`. 
