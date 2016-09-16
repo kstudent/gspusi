@@ -22,23 +22,26 @@
 2. Replace the code there with the content of [gspusi.js](https://raw.githubusercontent.com/kstudent/gspusi/master/gspusi.js).
 3. In line 26, replace `<term>` with the search keyword you would use to [find your course](https://usionline.uni-graz.at/usiweb/myusi.kurse?suche_in=go&sem_id_in=2016W&sp_id_in=&kursbez_in=volleyball+fortg.&kursleiter_in=&kursnr_in=&wt_in=&uhrzeit_von_in=&uhrzeit_bis_in=&suche_kursstaette_id_in=)  (e.g. `volleyball fortg.`).
 4. Store the project (Ctrl-s). Call it 'what you want'.
-5. add a trigger by clicking on `Resources` / `All your triggers`. 
-6. click on `No triggers set up. Click here to add one now.`.
-7. select how ofter you want *gspusi* to check for places.
+5. Add a trigger by clicking on `Resources` / `All your triggers`. 
+6. Click on `No triggers set up. Click here to add one now.`.
+7. Select how frequent you want *gspusi* to check for places.
+8. Confirm dialogs. You will need to give *gspusi* the permission to send you an email and to make requests to the USI Online Server.
+
+**Once you are done, please disable the script by deleting the trigger.**
 
 Optional: Test if your script is working and you are receiving emails by setting `false` to `true` in line 30.  
 
-## Is *gspusi* legal?
+## I'm a hacker if I use *gspusi*?
 
-I dont know, it probably is. Use at your own risk.
+No. Use at your own risk.
 
 ## Does this really work?
 
-I tried it twice and succeded twice. Keep in mind that it really depends on someone else to unregister of a course. Your best bet to get a placement is near the unregister deadline mid october.
+I tried it twice and succeded twice. Keep in mind that it really depends on someone else to unregister off that course. Your best bet to get a placement is near the unregister deadline mid october.
 
 ## Why did you do this?
 
-USI course placement can be very frustrating. I would prefer a mechanism like a subscription queue, where people would register and move up on free places. Since there is no such thin yet, I wrote this script as a "replacement". 
+USI course placement can be very frustrating. I would prefer a mechanism like a subscription queue, where people would register and move up on free places. Since there is no such thing yet, I wrote this script as a "replacement". 
 
 Feel free to share! Final remark: If you already got a placement somehow but are not sure about attending, please consider unregistering so that others get the place! 
 
