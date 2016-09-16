@@ -2,7 +2,7 @@
 
 ## What is *gspusi*?
 
-*gspusi* (**G**spusi **S**ubscribes **P**eople to **USI**) is a script that helps you get placed in a [USI course](https://sportinstitut.uni-graz.at/de/usi-kurssuche) by notifying you once there is such a free place. It works like a subscription: *gspusi* will check the Online Course Registration periodically to see if theres a free place in the courses you are interested in. If so, *gspusi* will send you a notification email to your Gmail account. With this notification you'll be the first one to know when there is an open place. The *gspupsi* script runs on a Google App Script server, so you dont need to let your PC run day and night.
+*gspusi* (**G**spusi **S**ubscribes **P**eople to **USI**) is a script that helps you get placed in a [USI course](https://sportinstitut.uni-graz.at/de/usi-kurssuche) by notifying you once there is such a free place. It works like a subscription: *gspusi* will check the Online Course Registration periodically to see if theres a free place in the courses you are interested in. If so, *gspusi* will send you a notification email to your Gmail account. With this notification you'll be the first one to know when there is an open place. The *gspusi* script runs on a Google App Script server, so you dont need to let your PC run day and night.
 
 ## What is *gspusi* not? 
 
