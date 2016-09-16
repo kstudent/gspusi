@@ -2,7 +2,7 @@
 
 ## What is *gspusi*?
 
-*gspusi* (**G**spusi **S**ubscribes **P**eople to **USI**) is a script that helps you get placed in a [USI course](https://sportinstitut.uni-graz.at/de/usi-kurssuche) by notifying you once there is such a free place. It works like a subscription: *gspusi* will check the Online Course Registration periodically to see if theres a free place in the courses you are interested in. If so, *gspusi* will send you a notification email to your Gmail account. With this notification you'll be the first one to know when there is an open place. The *gspusi* script runs on a Google App Script server, so you dont need to let your PC run day and night.
+*gspusi* (**G**spusi **S**ubscribes **P**eople to **USI**) is a script that helps you get placed in a [USI course](https://sportinstitut.uni-graz.at/de/usi-kurssuche) by notifying you once there is such a free place. It works like a subscription: *gspusi* will check the Online Course Registration periodically to see if there's a free place in the courses you are interested in. If so, *gspusi* will send you a notification email to your Gmail account. With this notification you'll be the first one to know when there is an open place. The *gspusi* script runs on a Google App Script server, so you don't need to let your PC run day and night.
 
 ## What is *gspusi* not? 
 
@@ -37,12 +37,12 @@ No. Use at your own risk.
 
 ## Does it really work?
 
-I tried it twice and succeded twice. Keep in mind that it really depends on someone else to unregister off that course. Your best bet to get a placement is near the unregister deadline mid october.
+I tried it twice and succeeded twice. Keep in mind that it really depends on someone else to sign off that course. Your best chance to get a placement is close to the deadline mid October.
 
 ## Why did you do this?
 
 USI course placement can be very frustrating. I would prefer a mechanism like a subscription queue, where people would register and move up on free places. Since there is no such thing yet, I wrote this script as a "replacement". 
 
-Feel free to share! Final remark: If you already got a placement somehow but are not sure about attending, please consider unregistering so that others get the place! 
+Feel free to share!
 
 Cheers, kstudent
