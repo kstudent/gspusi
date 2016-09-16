@@ -43,9 +43,3 @@ USI course placement can be very frustrating. I would prefer a mechanism like a 
 Feel free to share! Final remark: If you already got a placement somehow but are not sure about attending, please consider unregistering so that others get the place! 
 
 Cheers, kstudent
-
-[1] 
-
-[2] 
-
-[3] 
