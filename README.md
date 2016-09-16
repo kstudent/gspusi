@@ -31,11 +31,11 @@
 
 Optional: Test if your script is working and you are receiving emails by setting `false` to `true` in line 30.  
 
-## I'm a hacker if I use *gspusi*?
+## Am I a hacker if I use *gspusi*?
 
 No. Use at your own risk.
 
-## Does this really work?
+## Does it really work?
 
 I tried it twice and succeded twice. Keep in mind that it really depends on someone else to unregister off that course. Your best bet to get a placement is near the unregister deadline mid october.
 
